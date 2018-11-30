@@ -1,0 +1,29 @@
+===== BASE (1)=====
+Largo: 100 cm
+Ancho: 70 cm
+Grosor: 1.5cm
+
+======Paredes Laterales Interiores (2)=====
+Largo: 62 cm 
+Ancho: 2 cm
+Alto: 40 cm
+
+======Paredes Laterales Exterirores (2)=====
+Largo: 70 cm 
+Ancho: 2 cm
+Alto: 40 cm
+
+======Pared Trasera Interior (1)=====
+Largo: 80 cm 
+Ancho: 2 cm
+Alto: 40 cm
+
+======Pared Trasera Exteriror (1)=====
+Largo: 96 cm 
+Ancho: 2 cm
+Alto: 40 cm
+
+======Paredes Complementos (2)=====
+Largo: 6 cm 
+Ancho: 2 cm
+Alto: 40 cm
