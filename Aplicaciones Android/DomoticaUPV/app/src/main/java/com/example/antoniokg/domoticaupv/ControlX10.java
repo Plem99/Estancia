@@ -74,7 +74,7 @@ public class ControlX10 extends AppCompatActivity {
     /**
      * HOST
      * */
-    private static String ADDRESS="192.168.1.114";
+    private static String ADDRESS="";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -118,6 +118,7 @@ public class ControlX10 extends AppCompatActivity {
         off6 = ((Button) findViewById(R.id.off6));
         off7 = ((Button) findViewById(R.id.off7));
         off8 = ((Button) findViewById(R.id.off8));
+        ADDRESS = getIntent().getStringExtra("direccionIP");
 
         String [] codeHome = {"a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p"};
         ArrayAdapter<String> adaptador = new ArrayAdapter<String>(this,R.layout.spinner_item_codehome,codeHome);
